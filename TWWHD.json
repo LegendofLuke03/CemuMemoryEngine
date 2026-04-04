@@ -1,0 +1,178 @@
+[
+  {
+    "type": "folder",
+    "name": "Stage",
+    "open": true,
+    "children": [
+      {
+        "offset": 273105392,
+        "saved_value": "GanonM",
+        "dtype": "string",
+        "description": "mNextStage",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 273105400,
+        "saved_value": 0,
+        "dtype": "halfword",
+        "description": "mNextSpawnID",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 273105402,
+        "saved_value": 0,
+        "dtype": "byte",
+        "description": "mNextRoomID",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 273105403,
+        "saved_value": -1,
+        "dtype": "byte",
+        "description": "mNextLayerID",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 273105404,
+        "saved_value": 1,
+        "dtype": "byte",
+        "description": "Load",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "name": "Link",
+    "open": true,
+    "children": [
+      {
+        "offset": 341539714,
+        "saved_value": 12,
+        "dtype": "halfword",
+        "description": "Player Health",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 273107940,
+        "saved_value": 17,
+        "dtype": "pointer",
+        "description": "Link Speed",
+        "use_hex": false,
+        "ptr_sub_type": "float",
+        "ptr_extra_offset": 27156
+      },
+      {
+        "offset": 273107940,
+        "saved_value": 10.0,
+        "dtype": "pointer",
+        "description": "Y Velocity",
+        "use_hex": false,
+        "ptr_sub_type": "float",
+        "ptr_extra_offset": 832
+      },
+      {
+        "offset": 268653400,
+        "saved_value": 17.0,
+        "dtype": "float",
+        "description": "Max Walk Speed",
+        "use_hex": false,
+        "ptr_sub_type": "uint",
+        "ptr_extra_offset": 0
+      },
+      {
+        "offset": 341539818,
+        "saved_value": 255,
+        "dtype": "byte",
+        "description": "Bomb Count",
+        "use_hex": false,
+        "ptr_sub_type": "float",
+        "ptr_extra_offset": 0
+      }
+    ]
+  },
+  {
+    "offset": 273105731,
+    "saved_value": 1,
+    "dtype": "byte",
+    "description": "Storage",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 273105730,
+    "saved_value": 1,
+    "dtype": "byte",
+    "description": "mMode",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 270442601,
+    "saved_value": 1,
+    "dtype": "byte",
+    "description": "Pause Flag",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 401892284,
+    "saved_value": 1,
+    "dtype": "byte",
+    "description": "Menu Flag",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 273108058,
+    "saved_value": 0,
+    "dtype": "int",
+    "description": "Death State (Events&Pause)",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 273148692,
+    "saved_value": 17,
+    "dtype": "byte",
+    "description": "Room1 State",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 341539748,
+    "saved_value": 0.0,
+    "dtype": "float",
+    "description": "Time of Day",
+    "use_hex": false,
+    "ptr_sub_type": "uint",
+    "ptr_extra_offset": 0
+  },
+  {
+    "offset": 273107940,
+    "saved_value": 10,
+    "dtype": "pointer",
+    "description": "Y Velocity",
+    "use_hex": false,
+    "ptr_sub_type": "float",
+    "ptr_extra_offset": 508
+  }
+]
