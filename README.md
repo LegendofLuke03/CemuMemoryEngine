@@ -1,11 +1,14 @@
 # CemuMemoryEngine
 View and Modify Cemu Emulator Memory 
 
-![Screenshot 2026-04-03 203247](https://github.com/user-attachments/assets/f26c8b8e-5ece-46e4-a5e8-9abf915c4a0b) <br />
+<img width="1189" height="1267" alt="Base" src="https://github.com/user-attachments/assets/d26ec753-9f55-4ea9-9b5b-f8eed784ae6f" />
+ <br />
 
-<img width="1339" height="730" alt="image" src="https://github.com/user-attachments/assets/e6507dca-c002-4c74-adde-547787997ac5" /> <br />
+<img width="1201" height="1057" alt="MemView" src="https://github.com/user-attachments/assets/4f92af7f-12d6-487f-b627-d440374e8c63" />
+ <br />
 
-<img width="1696" height="757" alt="image" src="https://github.com/user-attachments/assets/919b7650-c07e-4d53-909f-0cbd6b155955" />
+<img width="1612" height="1117" alt="MemSearch" src="https://github.com/user-attachments/assets/6eedd797-0e0c-4326-8e81-bb01e7c5da05" />
+
 
 Main List <br /> <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connect to Cemu <br />
