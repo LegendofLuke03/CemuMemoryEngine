@@ -16,7 +16,8 @@ Main List <br /> <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK on any other column to open edit field <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can copy and paste selected fields <br /> <br />
 
-<img width="594" height="633" alt="Base" src="https://github.com/user-attachments/assets/ef6e1903-9be1-436a-aec0-982d6a85d23d" />
+<img width="1189" height="1269" alt="Base" src="https://github.com/user-attachments/assets/18dbcbde-e09f-4721-980a-2b1b36d6a32e" />
+
 
  <br />
 
