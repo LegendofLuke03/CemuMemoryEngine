@@ -16,7 +16,8 @@ Main List <br /> <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK on any other column to open edit field <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can copy and paste selected fields <br /> <br />
 
-<img width="1189" height="1267" alt="Base" src="https://github.com/user-attachments/assets/d26ec753-9f55-4ea9-9b5b-f8eed784ae6f" />
+<img width="594" height="633" alt="Base" src="https://github.com/user-attachments/assets/ef6e1903-9be1-436a-aec0-982d6a85d23d" />
+
  <br />
 
 MemView <br /> <br />
@@ -26,7 +27,8 @@ MemView <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View RAM section size <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inline editing live memory <br /> <br />
 
-<img width="1201" height="1057" alt="MemView" src="https://github.com/user-attachments/assets/4f92af7f-12d6-487f-b627-d440374e8c63" />
+<img width="600" height="528" alt="MemView" src="https://github.com/user-attachments/assets/63e4b142-61d9-4f09-aca1-5f7dd46f73f3" />
+
  <br />
 
  
@@ -34,7 +36,8 @@ MemSearch <br /> <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scan for values in decimal or hex <br /> <br />
 
-<img width="1612" height="1117" alt="MemSearch" src="https://github.com/user-attachments/assets/6eedd797-0e0c-4326-8e81-bb01e7c5da05" />
+<img width="806" height="558" alt="MemSearch" src="https://github.com/user-attachments/assets/b6b7e412-c985-4137-b2aa-d0ba4d36dcee" />
+
 
 
 
