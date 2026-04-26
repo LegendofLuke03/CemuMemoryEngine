@@ -15,8 +15,9 @@ Main List <br /> <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK "Address" or "Points To" column to copy address <br /> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK on any other column to open edit field <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can copy and paste selected fields <br /> <br />
+  
+<img width="832" height="888" alt="Base" src="https://github.com/user-attachments/assets/eac13349-e965-4f5f-a8ab-88ea9c799be9" />
 
-<img width="1189" height="1269" alt="Base" src="https://github.com/user-attachments/assets/18dbcbde-e09f-4721-980a-2b1b36d6a32e" />
 
 
  <br />
