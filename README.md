@@ -11,8 +11,8 @@ Main List <br /> <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increase or decrease read/write speed <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Option to view all as hex <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modify read/write speeds <br /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pointers supported with "Points to" column allow quick copy of pointed address <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK column to copy pointed to address <br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pointers supported with "Points to" column to quickly copy pointed address <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK "Address" or "Points To" column to copy address <br /> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RIGHT CLICK on any other column to open edit field <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can copy and paste selected fields <br /> <br />
 
