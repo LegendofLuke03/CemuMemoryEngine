@@ -18,7 +18,7 @@ Main List <br /> <br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QC4idovaZ4g
 " target="_blank"><img src="http://img.youtube.com/vi/QC4idovaZ4g/0.jpg" 
-alt="Demonstration" width="540" height="480" border="10" /></a>
+alt="Demonstration" width="440" height="380" border="10" /></a>
   
 <img width="832" height="888" alt="Base" src="https://github.com/user-attachments/assets/eac13349-e965-4f5f-a8ab-88ea9c799be9" />
 
