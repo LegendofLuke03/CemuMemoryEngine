@@ -25,7 +25,7 @@ MemView <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jump to a desired address <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jump to different RAM sections <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View RAM section size <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inline editing live memory <br /> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inline editing live memory <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right Click on memory to copy address <br /> <br />
 
 <img width="600" height="528" alt="MemView" src="https://github.com/user-attachments/assets/63e4b142-61d9-4f09-aca1-5f7dd46f73f3" />
